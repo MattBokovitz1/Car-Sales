@@ -4,10 +4,6 @@ In this project you are given the skeleton/structure/styling of a React app. The
 
 ## Introduction
 
----
-
-//First Commit
-
 Read these instructions carefully. Understand exactly what is expected before starting this project.
 
 ## Commits
